@@ -1,24 +1,26 @@
 # How we work
 
+## Tools
+
+[Waffle Board](https://waffle.io/cocupcoffee/cocup) Overview of all Cocup issues.
+
+## Releases
+
+[Cocup Web App](http://cocup-app.s3-website.eu-central-1.amazonaws.com/) on AWS S3
+
+[API Backend](https://ave52krdnk.execute-api.eu-central-1.amazonaws.com/dev) on AWS Lambda
+
 ## Weekly meetings
 
-Every monday after the standup meeting. 
+Every monday after the standup meeting.
 
 ### Objectives
 
-1. Retrospective
+1. **Retrospective** We would like to hear what you worked on last week. What did you manage to build? What were your challanges?
 
-We would like to hear what you worked on last week. 
-What did you manage to build? 
-What were your challanges?
+2. **Evaluation** Is there unfinished work from the previous planning? Handle the leftover work accordingly.
 
-2. Evaluation
-
-Is there unfinished work from the previous planning? Handle the leftover work accordingly.
-
-3. Planning
-
-Tell the team about the objectives of the new week. Who builds what part of it.
+3. **Planning** Tell the team about the objectives of the new week. Who builds what part of it.
 
 ## Development Workflow
 
