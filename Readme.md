@@ -3,6 +3,7 @@
 ## Tools
 
 [Waffle Board](https://waffle.io/cocupcoffee/cocup) Overview of all Cocup issues.
+
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/cocupcoffee/cocup.svg?columns=all)](https://waffle.io/cocupcoffee/cocup)
 
 
